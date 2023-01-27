@@ -1,4 +1,4 @@
-# woocomerse_product_variable_import
+# woocommerse_product_variable_import
 This python script can be used to create the correct format to match the import file for woocommerce.
 
 This is a python script for taking a list of products to be imported into woocommerce.
